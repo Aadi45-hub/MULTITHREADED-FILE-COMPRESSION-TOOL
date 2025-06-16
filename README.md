@@ -251,6 +251,16 @@ This project demonstrates practical systems-level programming with performance o
 
 
 
+output:
+
+
+
+
+![Image](https://github.com/user-attachments/assets/61430983-478b-4c41-8a8c-2920dce4fafe)
+
+
+
+
 
 
 
